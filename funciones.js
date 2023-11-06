@@ -83,7 +83,23 @@ Pista: Investiga si el objeto Math tiene entre sus propiedades el número Pi */
 let rad = prompt('ingrese radio: ');
 circunferencia(rad) */
 
-function circunferencia (radio){
+/* function circunferencia (radio){
     return Math.PI * radio * 2
 }
-console.log(circunferencia(2));
+console.log(circunferencia(2)); */
+
+/* const name = "Juan David";
+const lastname = "Castro Gallego";
+const completeName = name + lastname;
+const nickname = "juandc"; */
+
+
+
+/* let presentacion =(name,lastname,nickname)=>{
+    const completeName = name + lastname;
+
+    return console.log("Mi nombre es " + completeName + ", pero prefiero que me digas " + nickname + ".");
+}
+
+presentacion('ailin', 'doria', 'lindoor') */
+
