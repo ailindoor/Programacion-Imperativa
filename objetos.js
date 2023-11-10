@@ -35,7 +35,7 @@ let arrayCuentas = [{
 /* Nos solicitan también crear un objeto literal llamado “banco”, el cual tendrá una propiedad 
 llamada “clientes” que estará compuesta de la lista de objetos obtenidos en el punto anterior. */
 
-/* let banco = {
+let banco = {
   clientes: arrayCuentas,
   consultarCliente: (titular) => {
 
@@ -69,7 +69,7 @@ llamada “clientes” que estará compuesta de la lista de objetos obtenidos en
     }
   }
 
-} */
+}
 
 
 
@@ -128,6 +128,4 @@ let alumno = {
 
 let notas =prompt(alumno.listNotas);
 
-let promedio =(notas)=>{
-  for
-}
+let promedio =()=>{}
